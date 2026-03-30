@@ -22,6 +22,7 @@
         "./skills/gnuplot",
         "./skills/highlight",
         "./skills/open",
+        "./skills/open-ow",
         "./skills/select"
       ]
     }
