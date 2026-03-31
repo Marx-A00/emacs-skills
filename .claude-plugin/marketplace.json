@@ -23,7 +23,8 @@
         "./skills/highlight",
         "./skills/open",
         "./skills/open-ow",
-        "./skills/select"
+        "./skills/select",
+        "./skills/walkthrough"
       ]
     }
   ]
